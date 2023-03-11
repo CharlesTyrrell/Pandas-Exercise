@@ -13,5 +13,5 @@ It is sectioned based on what I needed to accomplish in order to plot number of 
 * Document code and try to provide as clean and nice of an implementation as possible; the code should be presentation ready and you should explain why you made specific choices and reason about them when we talk about it.
 
 # To use
-open in jupyter notebooks
+open in jupyter notebooks,
 run!
